@@ -2,10 +2,7 @@
 Olá, meu nome é Leonardo Braga. E esse é o desafio para o bootcamp da RiHappy + DIO, para Front-End.
 
 ## Awesome JSGame YIGIOH!
-
-![JSGame YIGIOH! Logo](https://github.com/Vegildo/yugioh-js/src/assets/videos/yugioh-time-to-duel.mp4)
-
-
+git add 
 Bem-vindo ao **JSGame YIGIOH**! Neste repositório, você encontrará um jogo divertido baseado no famoso anime "YIGIOH" e no jogo de jokenpo. Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
 
 ### Tecnologias Utilizadas
